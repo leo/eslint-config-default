@@ -4,6 +4,9 @@
   "description": "How I'm writing JavaScript",
   "main": "config.json",
   "repository": "leo/eslint-config-default",
+  "files": [
+    "config.json"
+  ],
   "keywords": [
     "standard",
     "style",

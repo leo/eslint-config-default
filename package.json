@@ -3,10 +3,7 @@
   "version": "0.1.0",
   "description": "How I'm writing JavaScript",
   "main": "config.json",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/leo/eslint-config-default.git"
-  },
+  "repository": "leo/eslint-config-default",
   "keywords": [
     "standard",
     "style",

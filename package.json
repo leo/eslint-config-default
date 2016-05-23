@@ -2,7 +2,7 @@
   "name": "eslint-config-default",
   "version": "0.1.0",
   "description": "How I'm writing JavaScript",
-  "main": "index.js",
+  "main": "config.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/leo/eslint-config-default.git"

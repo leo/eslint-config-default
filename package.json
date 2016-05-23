@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-default",
+  "version": "0.1.0",
+  "description": "How I'm writing JavaScript",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo/eslint-config-default.git"
+  },
+  "keywords": [
+    "standard",
+    "style",
+    "default",
+    "lint",
+    "code",
+    "linter",
+    "styling"
+  ],
+  "author": "leo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo/eslint-config-default/issues"
+  },
+  "homepage": "https://github.com/leo/eslint-config-default#readme"
+}

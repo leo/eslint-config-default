@@ -1,0 +1,41 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module"
+  },
+  "env": {
+    "node": true
+  },
+  "rules": {
+    "quotes": [
+      2,
+      "single",
+      {
+        "allowTemplateLiterals": true
+      }
+    ],
+    "indent": [
+      2,
+      2,
+      {
+        "SwitchCase": 1,
+        "VariableDeclarator": {
+          "var": 2,
+          "let": 2,
+          "const": 3
+        }
+      }
+    ],
+    "no-trailing-spaces": 2,
+    "no-var": 2,
+    "eol-last": 2,
+    "semi": [
+      2,
+      "never"
+    ],
+    "space-before-function-paren": [
+      2,
+      "always"
+    ]
+  }
+}

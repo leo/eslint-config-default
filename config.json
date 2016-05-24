@@ -36,6 +36,10 @@
     "space-before-function-paren": [
       2,
       "always"
+    ],
+    "spaced-comment": [
+      2,
+      "always"
     ]
   }
 }

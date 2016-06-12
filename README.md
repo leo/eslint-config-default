@@ -10,7 +10,7 @@ To use this config in combination with [ESLint](http://eslint.org), simply insta
 npm i --save-dev eslint-config-default
 ```
 
-...and add this to your `package.json` (we generally recommend keeping your ESLint cofiguration there instead of a completely separate file):
+...and add this to your `package.json` (we generally recommend keeping your ESLint cofiguration there instead of in a completely separate file):
 
 ```json
 "eslintConfig": {
@@ -18,4 +18,4 @@ npm i --save-dev eslint-config-default
 }
 ```
 
-Boom! You're done.
+Boom! :boom: You're done.

@@ -2,7 +2,7 @@
   "name": "eslint-config-default",
   "version": "0.1.0",
   "description": "How I'm writing JavaScript",
-  "main": "config.json",
+  "main": "index.json",
   "repository": "leo/eslint-config-default",
   "scripts": {
     "test": "ava tests.js"

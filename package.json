@@ -19,7 +19,11 @@
     "linter",
     "styling"
   ],
-  "author": "leo",
+  "author": {
+    "name": "Leo Lamprecht",
+    "email": "mindrun@icloud.com",
+    "url": "http://leo.im"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/leo/eslint-config-default/issues"

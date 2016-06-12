@@ -7,7 +7,7 @@ This is how I'm linting all of my projects. While this isn't an official standar
 To use this config in combination with [ESLint](http://eslint.org), simply install the package...
 
 ```bash
-npm i --save-dev eslint-config-default
+npm install --save-dev eslint-config-default
 ```
 
 ...and add this to your `package.json` (we generally recommend keeping your ESLint cofiguration there instead of in a completely separate file):

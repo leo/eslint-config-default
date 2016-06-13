@@ -5,7 +5,7 @@
   "main": "index.json",
   "repository": "leo/eslint-config-default",
   "scripts": {
-    "test": "ava tests.js"
+    "test": "ava test.js"
   },
   "files": [
     "config.json"

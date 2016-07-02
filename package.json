@@ -8,7 +8,7 @@
     "test": "ava test.js"
   },
   "files": [
-    "config.json"
+    "index.json"
   ],
   "keywords": [
     "standard",
